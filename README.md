@@ -1,3 +1,4 @@
+![Vut fit logo](doc/vut_fit_logo.png)
 # Parallerized-Mendelbrot
 A project to optimize the computation of the Mendelbrot set using openmp parallerization. Project created 
 The project was created as part of the BUT FIT studies in the course Architecture of Computer Systems.
