@@ -1,6 +1,6 @@
 # Parallerized-Mendelbrot
-A project to optimize the computation of the Mendelbrot set using openmp parallerization.
-
+A project to optimize the computation of the Mendelbrot set using openmp parallerization. Project created 
+The project was created as part of the BUT FIT studies in the course Architecture of Computer Systems.
 
 ## result
 ![Main page](https://raw.githubusercontent.com/sestakp/Parallerized-Mendelbrot/main/doc/mendelbrot.png)
